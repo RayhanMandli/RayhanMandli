@@ -144,7 +144,7 @@ B.E. Computer Engineering (2023 – Present)
 🌐 Portfolio: https://mandli.me  
 💼 LinkedIn: https://linkedin.com/in/rayhan020  
 📧 Email: mandlirayhan@gmail.com  
-📞 +91 9023120182  
+📞 +91 9000000000  
 
 ---
 
