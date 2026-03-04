@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Rayhan%20Mandli&fontSize=45&fontColor=38bdf8&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Rayhans%20Mandli&fontSize=45&fontColor=38bdf8&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h2 align="center">🚀 Full Stack Developer | MERN Stack | Computer Engineering Student</h2>
