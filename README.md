@@ -1,20 +1,3 @@
-
-
-<!--
-**RayhanMandli/RayhanMandli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Rayhan%20Mandli&fontSize=45&fontColor=38bdf8&animation=fadeIn&fontAlignY=35" />
@@ -74,7 +57,7 @@ I'm a **passionate MERN-stack developer** and **Computer Engineering student** f
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Project
 
 ### 🗄 Production-Ready Storage App (MERN)
 **Aug 2025 – Present**
@@ -86,45 +69,7 @@ I'm a **passionate MERN-stack developer** and **Computer Engineering student** f
 
 ---
 
-### 📚 Knowledge Storage App — *Upload & Forget*
-**Apr 2025 – May 2025**
-- 6 smart content categories  
-- Drag & drop uploads  
-- Password-protected content  
-- Optimized search (200+ assets)  
-- Neon-dark modular UI  
 
----
-
-### 🎥 YouTube Notes Library
-**Mar 2025 – Apr 2025**
-- Multi-library system  
-- Timestamped smart notes  
-- 50+ saved videos  
-- Optimized retrieval models  
-- Workflow-based UX design  
-
----
-
-## 🎓 Education
-
-🎓 **L.D. College of Engineering, Ahmedabad**  
-B.E. Computer Engineering (2023 – Present)  
-📈 CPI: **9+**
-
-🏫 **S.P. School, Halvad**  
-12th – GSHSEB  
-🏆 District First in JEE Mains (98.3 PR)
-
----
-
-## 🏆 Achievements
-- Built **5+ full-stack projects before 3rd year**
-- Strong **production backend architecture** knowledge
-- Advanced **RBAC & permission systems**
-- District-first rank in JEE Mains (school level)
-
----
 
 ## 📊 GitHub Stats
 
